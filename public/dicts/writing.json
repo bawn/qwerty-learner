@@ -1,0 +1,716 @@
+[
+  {
+    "name": "favourite",
+    "trans": [
+      "adj. 最喜爱的",
+      "n. 最喜欢的人（或物）"
+    ]
+  },
+  {
+    "name": "respectively",
+    "trans": [
+      "adv. 分别地，各自地"
+    ]
+  },
+  {
+    "name": "merely",
+    "trans": [
+      "adv. 仅仅，只是"
+    ]
+  },
+  {
+    "name": "contrast",
+    "trans": [
+      "n. 对比，对照",
+      "v. 对比；形成对照"
+    ]
+  },
+  {
+    "name": "notably",
+    "trans": [
+      "adv. 显著地；尤其"
+    ]
+  },
+  {
+    "name": "reflect",
+    "trans": [
+      "v. 反映；反射；思考"
+    ]
+  },
+  {
+    "name": "indeed",
+    "trans": [
+      "adv. 确实；事实上"
+    ]
+  },
+  {
+    "name": "despite",
+    "trans": [
+      "prep. 尽管"
+    ]
+  },
+  {
+    "name": "especially",
+    "trans": [
+      "adv. 尤其；特别"
+    ]
+  },
+  {
+    "name": "phenomenon",
+    "trans": [
+      "n. 现象"
+    ]
+  },
+  {
+    "name": "embed",
+    "trans": [
+      "v. 嵌入；插入"
+    ]
+  },
+  {
+    "name": "percentage",
+    "trans": [
+      "n. 百分比；百分率"
+    ]
+  },
+  {
+    "name": "however",
+    "trans": [
+      "adv. 然而；不过",
+      "conj. 无论如何"
+    ]
+  },
+  {
+    "name": "whereas",
+    "trans": [
+      "conj. 然而；鉴于"
+    ]
+  },
+  {
+    "name": "therefore",
+    "trans": [
+      "adv. 因此；所以"
+    ]
+  },
+  {
+    "name": "thus",
+    "trans": [
+      "adv. 因此；如此"
+    ]
+  },
+  {
+    "name": "since",
+    "trans": [
+      "conj. 自从；因为",
+      "prep. 自从",
+      "adv. 自那以后"
+    ]
+  },
+  {
+    "name": "example",
+    "trans": [
+      "n. 例子；实例"
+    ]
+  },
+  {
+    "name": "instance",
+    "trans": [
+      "n. 例子；实例；场合"
+    ]
+  },
+  {
+    "name": "approximately",
+    "trans": [
+      "adv. 大约；约"
+    ]
+  },
+  {
+    "name": "virtually",
+    "trans": [
+      "adv. 几乎；实际上"
+    ]
+  },
+  {
+    "name": "similarly",
+    "trans": [
+      "adv. 类似地"
+    ]
+  },
+  {
+    "name": "undeniably",
+    "trans": [
+      "adv. 不可否认地"
+    ]
+  },
+  {
+    "name": "rapidly",
+    "trans": [
+      "adv. 迅速地；快速地"
+    ]
+  },
+  {
+    "name": "quality",
+    "trans": [
+      "n. 质量；品质"
+    ]
+  },
+  {
+    "name": "vital",
+    "trans": [
+      "adj. 至关重要的；生机勃勃的"
+    ]
+  },
+  {
+    "name": "crucial",
+    "trans": [
+      "adj. 关键的；决定性的"
+    ]
+  },
+  {
+    "name": "essential",
+    "trans": [
+      "adj. 本质的；必要的"
+    ]
+  },
+  {
+    "name": "endeavour",
+    "trans": [
+      "v. 努力；尝试",
+      "n. 努力；尝试"
+    ]
+  },
+  {
+    "name": "nurture",
+    "trans": [
+      "v. 培养；滋养",
+      "n. 养育；培育"
+    ]
+  },
+  {
+    "name": "distort",
+    "trans": [
+      "v. 扭曲；曲解"
+    ]
+  },
+  {
+    "name": "generate",
+    "trans": [
+      "v. 生成；产生"
+    ]
+  },
+  {
+    "name": "intention",
+    "trans": [
+      "n. 意图；目的"
+    ]
+  },
+  {
+    "name": "intervene",
+    "trans": [
+      "v. 干预；介入"
+    ]
+  },
+  {
+    "name": "motivate",
+    "trans": [
+      "v. 激励；促使"
+    ]
+  },
+  {
+    "name": "responsibility",
+    "trans": [
+      "n. 责任；职责"
+    ]
+  },
+  {
+    "name": "revolution",
+    "trans": [
+      "n. 革命；旋转"
+    ]
+  },
+  {
+    "name": "satisfy",
+    "trans": [
+      "v. 满足；符合"
+    ]
+  },
+  {
+    "name": "restrict",
+    "trans": [
+      "v. 限制；约束"
+    ]
+  },
+  {
+    "name": "mechanism",
+    "trans": [
+      "n. 机制；结构；方法"
+    ]
+  },
+  {
+    "name": "adapt",
+    "trans": [
+      "v. 适应；改编"
+    ]
+  },
+  {
+    "name": "provide",
+    "trans": [
+      "v. 提供；供应"
+    ]
+  },
+  {
+    "name": "preserve",
+    "trans": [
+      "v. 保存；保护"
+    ]
+  },
+  {
+    "name": "gain",
+    "trans": [
+      "v. 获取；获得",
+      "n. 收获；收益"
+    ]
+  },
+  {
+    "name": "advance",
+    "trans": [
+      "v. 推进；促进",
+      "n. 前进；进展",
+      "adj. 预先的"
+    ]
+  },
+  {
+    "name": "attract",
+    "trans": [
+      "v. 吸引；引起"
+    ]
+  },
+  {
+    "name": "achieve",
+    "trans": [
+      "v. 实现；取得"
+    ]
+  },
+  {
+    "name": "endanger",
+    "trans": [
+      "v. 危及；使遭危险"
+    ]
+  },
+  {
+    "name": "undermine",
+    "trans": [
+      "v. 破坏；削弱"
+    ]
+  },
+  {
+    "name": "determinant",
+    "trans": [
+      "n. 决定因素；限定符"
+    ]
+  },
+  {
+    "name": "determine",
+    "trans": [
+      "v. 决定；确定"
+    ]
+  },
+  {
+    "name": "hinder",
+    "trans": [
+      "v. 阻碍；妨碍"
+    ]
+  },
+  {
+    "name": "forbid",
+    "trans": [
+      "v. 禁止；不许"
+    ]
+  },
+  {
+    "name": "neglect",
+    "trans": [
+      "v. 忽视；疏忽",
+      "n. 疏忽；忽视"
+    ]
+  },
+  {
+    "name": "emission",
+    "trans": [
+      "n. 排放；发射"
+    ]
+  },
+  {
+    "name": "undoubtedly",
+    "trans": [
+      "adv. 毫无疑问地"
+    ]
+  },
+  {
+    "name": "factor",
+    "trans": [
+      "n. 因素；要素"
+    ]
+  },
+  {
+    "name": "excessive",
+    "trans": [
+      "adj. 过度的；过分的"
+    ]
+  },
+  {
+    "name": "sole",
+    "trans": [
+      "adj. 唯一的；专有的",
+      "n. 鞋底；脚掌"
+    ]
+  },
+  {
+    "name": "undeniable",
+    "trans": [
+      "adj. 不可否认的；无可争辩的"
+    ]
+  },
+  {
+    "name": "intuitive",
+    "trans": [
+      "adj. 直觉的；凭直觉的"
+    ]
+  },
+  {
+    "name": "unaware",
+    "trans": [
+      "adj. 未察觉的；不知道的"
+    ]
+  },
+  {
+    "name": "consequence",
+    "trans": [
+      "n. 后果；结果"
+    ]
+  },
+  {
+    "name": "psychological",
+    "trans": [
+      "adj. 心理的；精神上的"
+    ]
+  },
+  {
+    "name": "hurdle",
+    "trans": [
+      "n. 障碍；栏"
+    ]
+  },
+  {
+    "name": "challenge",
+    "trans": [
+      "n. 挑战；质疑",
+      "v. 挑战；质疑"
+    ]
+  },
+  {
+    "name": "manipulate",
+    "trans": [
+      "v. 操纵；控制；巧妙处理"
+    ]
+  },
+  {
+    "name": "alter",
+    "trans": [
+      "v. 改变；更改"
+    ]
+  },
+  {
+    "name": "compromise",
+    "trans": [
+      "n. 妥协；折中",
+      "v. 妥协；危及"
+    ]
+  },
+  {
+    "name": "implication",
+    "trans": [
+      "n. 含义；暗示；可能的后果"
+    ]
+  },
+  {
+    "name": "influence",
+    "trans": [
+      "n. 影响；势力",
+      "v. 影响"
+    ]
+  },
+  {
+    "name": "affect",
+    "trans": [
+      "v. 影响；感染",
+      "n. 情感；假装"
+    ]
+  },
+  {
+    "name": "appropriate",
+    "trans": [
+      "adj. 合适的；恰当的",
+      "v. 挪用；拨款"
+    ]
+  },
+  {
+    "name": "conventional",
+    "trans": [
+      "adj. 传统的；常规的"
+    ]
+  },
+  {
+    "name": "prevent",
+    "trans": [
+      "v. 预防；阻止"
+    ]
+  },
+  {
+    "name": "implement",
+    "trans": [
+      "v. 实施；执行",
+      "n. 工具；手段"
+    ]
+  },
+  {
+    "name": "regulation",
+    "trans": [
+      "n. 规则；管理；调节"
+    ]
+  },
+  {
+    "name": "accurately",
+    "trans": [
+      "adv. 精确地；准确地"
+    ]
+  },
+  {
+    "name": "estimate",
+    "trans": [
+      "v. 估计；评估",
+      "n. 估计；评估"
+    ]
+  },
+  {
+    "name": "component",
+    "trans": [
+      "n. 组成部分；成分",
+      "adj. 组成的"
+    ]
+  },
+  {
+    "name": "thereby",
+    "trans": [
+      "adv. 从而；因此"
+    ]
+  },
+  {
+    "name": "legislation",
+    "trans": [
+      "n. 立法；法规"
+    ]
+  },
+  {
+    "name": "whether",
+    "trans": [
+      "conj. 是否"
+    ]
+  },
+  {
+    "name": "traditional",
+    "trans": [
+      "adj. 传统的；惯例的"
+    ]
+  },
+  {
+    "name": "attribute",
+    "trans": [
+      "n. 属性；特质",
+      "v. 归因于"
+    ]
+  },
+  {
+    "name": "congestion",
+    "trans": [
+      "n. 拥堵；充血；堵塞"
+    ]
+  },
+  {
+    "name": "damage",
+    "trans": [
+      "v. 损害；毁坏",
+      "n. 损害；伤害"
+    ]
+  },
+  {
+    "name": "cause",
+    "trans": [
+      "n. 原因；事业",
+      "v. 导致；引起"
+    ]
+  },
+  {
+    "name": "summarise",
+    "trans": [
+      "v. 总结；概括"
+    ]
+  },
+  {
+    "name": "essence",
+    "trans": [
+      "n. 本质；要素"
+    ]
+  },
+  {
+    "name": "constant",
+    "trans": [
+      "adj. 恒定的；不断的",
+      "n. 常数；恒量"
+    ]
+  },
+  {
+    "name": "criminal",
+    "trans": [
+      "n. 罪犯；犯人",
+      "adj. 犯罪的；罪恶的"
+    ]
+  },
+  {
+    "name": "recognise",
+    "trans": [
+      "v. 识别；承认"
+    ]
+  },
+  {
+    "name": "former",
+    "trans": [
+      "adj. 前者的；在前的",
+      "n. 前者"
+    ]
+  },
+  {
+    "name": "latter",
+    "trans": [
+      "adj. 后者的；较后的",
+      "n. 后者"
+    ]
+  },
+  {
+    "name": "straightforward",
+    "trans": [
+      "adj. 简单明了的；坦率的"
+    ]
+  },
+  {
+    "name": "additionally",
+    "trans": [
+      "adv. 此外；加之"
+    ]
+  },
+  {
+    "name": "afterwards",
+    "trans": [
+      "adv. 之后；后来"
+    ]
+  },
+  {
+    "name": "impart",
+    "trans": [
+      "v. 传授；告知"
+    ]
+  },
+  {
+    "name": "theoretical",
+    "trans": [
+      "adj. 理论的；假设的"
+    ]
+  },
+  {
+    "name": "probability",
+    "trans": [
+      "n. 概率；可能性"
+    ]
+  },
+  {
+    "name": "primarily",
+    "trans": [
+      "adv. 主要地；首先"
+    ]
+  },
+  {
+    "name": "short-term",
+    "trans": [
+      "adj. 短期的；短暂的"
+    ]
+  },
+  {
+    "name": "alternative",
+    "trans": [
+      "n. 替代品；选择",
+      "adj. 可替代的；另外的"
+    ]
+  },
+  {
+    "name": "solely",
+    "trans": [
+      "adv. 仅仅；唯一地"
+    ]
+  },
+  {
+    "name": "nevertheless",
+    "trans": [
+      "adv. 然而；不过"
+    ]
+  },
+  {
+    "name": "imprisonment",
+    "trans": [
+      "n. 监禁；下狱"
+    ]
+  },
+  {
+    "name": "ancient",
+    "trans": [
+      "adj. 古代的；古老的",
+      "n. 古人"
+    ]
+  },
+  {
+    "name": "numerous",
+    "trans": [
+      "adj. 众多的；大量的"
+    ]
+  },
+  {
+    "name": "detain",
+    "trans": [
+      "v. 拘留；耽搁"
+    ]
+  },
+  {
+    "name": "maintain",
+    "trans": [
+      "v. 维持；主张；保养"
+    ]
+  },
+  {
+    "name": "moral",
+    "trans": [
+      "adj. 道德的；品行端正的",
+      "n. 道德；品行"
+    ]
+  },
+  {
+    "name": "legal",
+    "trans": [
+      "adj. 法律的；合法的"
+    ]
+  },
+  {
+    "name": "likelihood",
+    "trans": [
+      "n. 可能性；概率"
+    ]
+  }
+]
