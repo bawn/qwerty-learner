@@ -4,6 +4,17 @@ import { calcChapterCount } from '@/utils'
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
+    id: 'ielts-writing',
+    name: '雅思写作',
+    description: '雅思写作',
+    category: '国际考试',
+    tags: ['IELTS'],
+    url: '/dicts/writing.json',
+    length: 114,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'cet4',
     name: 'CET-4',
     description: '大学英语四级词库',
